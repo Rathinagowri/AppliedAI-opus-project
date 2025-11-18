@@ -1,0 +1,6 @@
+This workflow initiates on a scheduled basis, retrieves a watchlist from a spreadsheet, extracts product and pricing data, 
+checks for substantial price reductions, and sends email alerts for watches with significant discounts. 
+The process is fully automated and ensures timely notification of price drops to interested recipients.
+Industry
+Retail & E-commerce - Retail Analytics
+Link: https://app.opus.com/app/workflow/share/496f922e-da25-49f5-90f2-739cb64a35bb
