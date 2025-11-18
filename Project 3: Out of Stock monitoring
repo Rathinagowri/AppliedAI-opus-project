@@ -1,0 +1,18 @@
+Product Availability Monitoring
+This workflow checks the availability of a product on a specified web page and sends a notification to the user
+when the product is detected as in stock. It retrieves the product page content, extracts visible text, 
+determines stock status based on predefined keywords, generates a notification message if the product is available,
+and delivers the notification using the user's preferred contact method.
+
+Industry
+Retail & E-commerce - E-commerce Platform Administration
+Inputs 
+The web address (URL) that points directly to a specific product page.
+
+A list of keywords or phrases that indicate a product is out of stock.
+
+The preferred channel for sending the notification (e.g., email, sms, push).
+
+The contact details for delivering the notification.
+Output
+Indicates whether the notification was successfully sent to the user.
