@@ -1,4 +1,7 @@
 Product Availability Monitoring
+https://app.opus.com/app/workflow/share/264a3329-5d5a-4040-a5b5-3551d8fe15bf
+
+
 This workflow checks the availability of a product on a specified web page and sends a notification to the user
 when the product is detected as in stock. It retrieves the product page content, extracts visible text, 
 determines stock status based on predefined keywords, generates a notification message if the product is available,
