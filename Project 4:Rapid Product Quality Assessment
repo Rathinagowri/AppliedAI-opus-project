@@ -1,0 +1,20 @@
+https://app.opus.com/app/workflow/share/3cc4e4db-0ead-4c9a-be30-a1f7d8298446
+
+This workflow rapidly evaluates a product's standing by aggregating and analyzing genuine user feedback, extracting pros and cons, 
+and cross-validating these insights against a broad set of user signals to classify the product as legitimately good, overhyped, mediocre, or fake.
+Industry: Retail & E-commerce - Retail Analytics
+
+Inputs & Outputs
+
+
+Input
+
+
+Unique product identifier (e.g., SKU, ASIN, or product name)
+
+Collection of user feedback entries related to the product
+
+Output
+Product quality label: one of 'legitimately_good', 'overhyped', 'mediocre', or 'fake'
+
+Summary of validated pros and cons with supporting user signal statistics
