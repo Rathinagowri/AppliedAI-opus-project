@@ -1,0 +1,17 @@
+https://app.opus.com/app/workflow/share/f0263c56-2554-4294-9d92-090264afb436
+
+This workflow schedules a daily check of a given URL, retrieves its content, extracts any available offer and price information, detects price drops by comparing current and previous prices, determines if a notification is required, and sends an email notification to the specified address if an offer or price drop is detected.
+Industry
+Retail & E-commerce - Retail Analytics
+
+Inputs & Outputs
+Input
+
+The URL to be monitored for offers or price drops.
+
+The specific time of day to perform the daily check (in 24-hour format, e.g., '14:00').
+
+The email address to send notifications to if an offer or price drop is detected.
+
+Output
+Status of the notification email, including whether it was sent, the recipient, and the reason.
